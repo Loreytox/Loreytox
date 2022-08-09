@@ -2,9 +2,9 @@
 
 Hallo und hallo, ich bin da am testen und am schreiben, kenne kein coding aber wird ( **Hoffentlich** )
 
-| Header 1 | Header 2 |
-| --- | --- | --- |
-| Content 1 | Content 2 |
+|  Header 1  |   Header 2  |
+|  ---  |  ---  |  ---  |
+|  Content 1  |  Content 2  |
 
 ![images](https://user-images.githubusercontent.com/110893594/183600693-e5a7489f-a743-4135-858d-4f6fca55209e.jpg)
 
