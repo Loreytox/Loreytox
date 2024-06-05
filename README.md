@@ -6,8 +6,7 @@ GitHub-Profil von Lorenzo Lai
 
 🚀 Projekte: Ich habe bereits an mehreren Projekten gearbeitet, darunter [Projekt 1], [Projekt 2] und [Projekt 3]. Diese reichen von Webanwendungen bis hin zu Datenanalyse-Tools. Du kannst meine Arbeit auf meinem GitHub-Repository finden.
 
-Technologien:
-Ich kenne mir mit schon einige Programmiersprachen gut, hier sind einige von denen:
+🤖 Technologien: Ich kenne mich schon gut mit einigen Programmiersprachen aus. Hier sind einige davon:
 - C#
 - PowerShell
 - Java
